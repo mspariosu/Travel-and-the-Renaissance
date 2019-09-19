@@ -1,4 +1,8 @@
 ## Travel and the Reniassance
+<image> 
+  https://www.tripsavvy.com/thmb/8LkHN0f2WMlVqZfd-3Jg423gDv4=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/idyllic-shot-of-green-landscape-against-sky-589225933-59878776aad52b0010d2692a.jpg
+  </image>
+  
 
 You can use the [editor on GitHub](https://github.com/mspariosu/Travel-and-the-Renaissance/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
