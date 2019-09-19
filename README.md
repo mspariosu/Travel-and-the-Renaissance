@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Travel and the Reniassance
 
 You can use the [editor on GitHub](https://github.com/mspariosu/Travel-and-the-Renaissance/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
